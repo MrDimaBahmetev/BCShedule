@@ -1,7 +1,7 @@
 [
 	{
 	"id": 0,
-	"idGroup": 1,
+	"idGroup": 0,
 	"idUser": 1,
 	"lastname": "Вадимович",
 	"name": "Дмитрий",
@@ -9,7 +9,7 @@
 	},
 	{
 	"id": 1,
-	"idGroup": 2,
+	"idGroup": 0,
 	"idUser": 2,
 	"lastname": "Александрович",
 	"name": "Федор",
@@ -17,7 +17,7 @@
 	},
 	{
 	"id": 2,
-	"idGroup": 3,
+	"idGroup": 0,
 	"idUser": 3,
 	"lastname": "Жолын",
 	"name": "Адлер",
@@ -25,7 +25,7 @@
 	},
 	{
 	"id": 3,
-	"idGroup": 4,
+	"idGroup": 0,
 	"idUser": 4,
 	"lastname": "Тигранович",
 	"name": "Алиби",
@@ -33,7 +33,7 @@
 	},
 	{
 	"id": 4,
-	"idGroup": 5,
+	"idGroup": 0,
 	"idUser": 5,
 	"lastname": "Юрьевич",
 	"name": "Артем",
@@ -41,7 +41,7 @@
 	},
 	{
 	"id": 5,
-	"idGroup": 6,
+	"idGroup": 0,
 	"idUser": 6,
 	"lastname": "Петрович",
 	"name": "Иван",
@@ -49,7 +49,7 @@
 	},
 	{
 	"id": 6,
-	"idGroup": 7,
+	"idGroup": 0,
 	"idUser": 7,
 	"lastname": "Дмитриевич",
 	"name": "Владислав",
@@ -57,7 +57,7 @@
 	},
 	{
 	"id": 7,
-	"idGroup": 8,
+	"idGroup": 0,
 	"idUser": 8,
 	"lastname": "Торон",
 	"name": "Данил",
@@ -65,7 +65,7 @@
 	},
 	{
 	"id": 8,
-	"idGroup": 9,
+	"idGroup": 0,
 	"idUser": 9,
 	"lastname": "Дмитриевич",
 	"name": "Дмитрий",
@@ -73,7 +73,7 @@
 	},
 	{
 	"id": 9,
-	"idGroup": 10,
+	"idGroup": 0,
 	"idUser": 10,
 	"lastname": "Дулизов",
 	"name": "Ерик",
@@ -81,7 +81,7 @@
 	},
 	{
 	"id": 10,
-	"idGroup": 11,
+	"idGroup": 0,
 	"idUser": 11,
 	"lastname": "Каскыр",
 	"name": "Ескандыр",
@@ -89,7 +89,7 @@
 	},
 	{
 	"id": 11,
-	"idGroup": 12,
+	"idGroup": 0,
 	"idUser": 12,
 	"lastname": "Анатольевич",
 	"name": "Алексей",
@@ -97,7 +97,7 @@
 	},
 	{
 	"id": 12,
-	"idGroup": 13,
+	"idGroup": 0,
 	"idUser": 13,
 	"lastname": "Амирданович",
 	"name": "Мейрлан",
@@ -105,7 +105,7 @@
 	},
 	{
 	"id": 13,
-	"idGroup": 14,
+	"idGroup": 0,
 	"idUser": 14,
 	"lastname": "Александрович",
 	"name": "Никита",
@@ -113,7 +113,7 @@
 	},
 	{
 	"id": 14,
-	"idGroup": 15,
+	"idGroup": 0,
 	"idUser": 15,
 	"lastname": "Михаилович",
 	"name": "Нурали",
@@ -121,7 +121,7 @@
 	},
 	{
 	"id": 15,
-	"idGroup": 16,
+	"idGroup": 0,
 	"idUser": 16,
 	"lastname": "Абказы",
 	"name": "Нуркен",
@@ -129,7 +129,7 @@
 	},
 	{
 	"id": 16,
-	"idGroup": 17,
+	"idGroup": 0,
 	"idUser": 17,
 	"lastname": "Аман",
 	"name": "Кирилл",
@@ -137,7 +137,7 @@
 	},
 	{
 	"id": 17,
-	"idGroup": 18,
+	"idGroup": 0,
 	"idUser": 18,
 	"lastname": "Миханович",
 	"name": "Ярослав",
