@@ -1,0 +1,177 @@
+[
+	{
+	"admin": true,
+	"id": 0,
+	"login": "admin",
+	"password": "root",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 1,
+	"login": "Dbm",
+	"password": "1",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 2,
+	"login": "ФЖилинвич",
+	"password": "53955",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 3,
+	"login": "АКопирлын",
+	"password": "13638",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 4,
+	"login": "АСоветоввич",
+	"password": "75409",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 5,
+	"login": "АКудряшоввич",
+	"password": "63163",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 6,
+	"login": "ИБухвич",
+	"password": "58314",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 7,
+	"login": "ВНазаренкович",
+	"password": "52487",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 8,
+	"login": "ДЛискинрон",
+	"password": "57496",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 9,
+	"login": "ДМакароввич",
+	"password": "46617",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 10,
+	"login": "ЕАблаевзов",
+	"password": "65535",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 11,
+	"login": "ЕДиханбайкыр",
+	"password": "91500",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 12,
+	"login": "АИгнатоввич",
+	"password": "24316",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 13,
+	"login": "МАмирдавич",
+	"password": "42838",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 14,
+	"login": "НПигасоввич",
+	"password": "19325",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 15,
+	"login": "НСартаеввич",
+	"password": "30155",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 16,
+	"login": "НДауренбековазы",
+	"password": "23835",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 17,
+	"login": "КСливкиман17",
+	"password": "68313",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 18,
+	"login": "ЯУтешеввич18",
+	"password": "84673",
+	"teacher": false
+	},
+	{
+	"admin": false,
+	"id": 19,
+	"login": "Dron",
+	"password": "111",
+	"teacher": true
+	},
+	{
+	"admin": false,
+	"id": 20,
+	"login": "РОмирбаеввич20",
+	"password": "37300",
+	"teacher": true
+	},
+	{
+	"admin": false,
+	"id": 21,
+	"login": "ГШалганбайова21",
+	"password": "52350",
+	"teacher": true
+	},
+	{
+	"admin": false,
+	"id": 22,
+	"login": "МЖолдыбаеввич22",
+	"password": "38932",
+	"teacher": true
+	},
+	{
+	"admin": false,
+	"id": 23,
+	"login": "БТанатароввич23",
+	"password": "66110",
+	"teacher": true
+	},
+	{
+	"admin": false,
+	"id": 24,
+	"login": "ЕМельниковавна24",
+	"password": "41755",
+	"teacher": true
+	}
+]
