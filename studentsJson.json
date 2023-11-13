@@ -1,0 +1,146 @@
+[
+	{
+	"id": 0,
+	"idGroup": 1,
+	"idUser": 1,
+	"lastname": "Вадимович",
+	"name": "Дмитрий",
+	"sername": "Бахметьев"
+	},
+	{
+	"id": 1,
+	"idGroup": 2,
+	"idUser": 2,
+	"lastname": "Александрович",
+	"name": "Федор",
+	"sername": "Жилин"
+	},
+	{
+	"id": 2,
+	"idGroup": 3,
+	"idUser": 3,
+	"lastname": "Жолын",
+	"name": "Адлер",
+	"sername": "Копир"
+	},
+	{
+	"id": 3,
+	"idGroup": 4,
+	"idUser": 4,
+	"lastname": "Тигранович",
+	"name": "Алиби",
+	"sername": "Советов"
+	},
+	{
+	"id": 4,
+	"idGroup": 5,
+	"idUser": 5,
+	"lastname": "Юрьевич",
+	"name": "Артем",
+	"sername": "Кудряшов"
+	},
+	{
+	"id": 5,
+	"idGroup": 6,
+	"idUser": 6,
+	"lastname": "Петрович",
+	"name": "Иван",
+	"sername": "Бух"
+	},
+	{
+	"id": 6,
+	"idGroup": 7,
+	"idUser": 7,
+	"lastname": "Дмитриевич",
+	"name": "Владислав",
+	"sername": "Назаренко"
+	},
+	{
+	"id": 7,
+	"idGroup": 8,
+	"idUser": 8,
+	"lastname": "Торон",
+	"name": "Данил",
+	"sername": "Лискин"
+	},
+	{
+	"id": 8,
+	"idGroup": 9,
+	"idUser": 9,
+	"lastname": "Дмитриевич",
+	"name": "Дмитрий",
+	"sername": "Макаров"
+	},
+	{
+	"id": 9,
+	"idGroup": 10,
+	"idUser": 10,
+	"lastname": "Дулизов",
+	"name": "Ерик",
+	"sername": "Аблаев"
+	},
+	{
+	"id": 10,
+	"idGroup": 11,
+	"idUser": 11,
+	"lastname": "Каскыр",
+	"name": "Ескандыр",
+	"sername": "Диханбай"
+	},
+	{
+	"id": 11,
+	"idGroup": 12,
+	"idUser": 12,
+	"lastname": "Анатольевич",
+	"name": "Алексей",
+	"sername": "Игнатов"
+	},
+	{
+	"id": 12,
+	"idGroup": 13,
+	"idUser": 13,
+	"lastname": "Амирданович",
+	"name": "Мейрлан",
+	"sername": "Амирда"
+	},
+	{
+	"id": 13,
+	"idGroup": 14,
+	"idUser": 14,
+	"lastname": "Александрович",
+	"name": "Никита",
+	"sername": "Пигасов"
+	},
+	{
+	"id": 14,
+	"idGroup": 15,
+	"idUser": 15,
+	"lastname": "Михаилович",
+	"name": "Нурали",
+	"sername": "Сартаев"
+	},
+	{
+	"id": 15,
+	"idGroup": 16,
+	"idUser": 16,
+	"lastname": "Абказы",
+	"name": "Нуркен",
+	"sername": "Дауренбеков"
+	},
+	{
+	"id": 16,
+	"idGroup": 17,
+	"idUser": 17,
+	"lastname": "Аман",
+	"name": "Кирилл",
+	"sername": "Сливки"
+	},
+	{
+	"id": 17,
+	"idGroup": 18,
+	"idUser": 18,
+	"lastname": "Миханович",
+	"name": "Ярослав",
+	"sername": "Утешев"
+	}
+]
