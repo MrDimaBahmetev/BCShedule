@@ -1,0 +1,92 @@
+[
+	{
+	"cabinet": "209",
+	"dayWeek": "monday",
+	"id": 0,
+	"idGroup": 0,
+	"idSubject": 3,
+	"idTeacher": 0,
+	"time": "11:50 - 13:20",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "209",
+	"dayWeek": "monday",
+	"id": 1,
+	"idGroup": 0,
+	"idSubject": 1,
+	"idTeacher": 1,
+	"time": "13:30 - 15:00",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "206",
+	"dayWeek": "monday",
+	"id": 2,
+	"idGroup": 0,
+	"idSubject": 1,
+	"idTeacher": 2,
+	"time": "15:20 - 16:50",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "206",
+	"dayWeek": "monday",
+	"id": 3,
+	"idGroup": 0,
+	"idSubject": 5,
+	"idTeacher": 3,
+	"time": "17:00 - 18:30",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "206",
+	"dayWeek": "tuesday",
+	"id": 4,
+	"idGroup": 0,
+	"idSubject": 1,
+	"idTeacher": 4,
+	"time": "11:50 - 13:20",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "211",
+	"dayWeek": "tuesday",
+	"id": 5,
+	"idGroup": 0,
+	"idSubject": 4,
+	"idTeacher": 5,
+	"time": "13:30 - 15:00",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "428",
+	"dayWeek": "tuesday",
+	"id": 6,
+	"idGroup": 0,
+	"idSubject": 4,
+	"idTeacher": 5,
+	"time": "15:20 - 16:50",
+	"weekDivider": true
+	},
+	{
+	"cabinet": "206",
+	"dayWeek": "tuesday",
+	"id": 7,
+	"idGroup": 0,
+	"idSubject": 1,
+	"idTeacher": 4,
+	"time": "15:20 - 16:50",
+	"weekDivider": false
+	},
+	{
+	"cabinet": "206",
+	"dayWeek": "tuesday",
+	"id": 8,
+	"idGroup": 0,
+	"idSubject": 3,
+	"idTeacher": 3,
+	"time": "17:00 - 18:30",
+	"weekDivider": true
+	}
+]
